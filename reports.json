@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1731993619694,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "latitude": 17.391586150000002,
+    "longitude": 78.54299727157132,
+    "description": "4234545",
+    "progress": "In Progress"
+  },
+  {
+    "id": 1731994913700,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "image": null,
+    "feedback": []
+  },
+  {
+    "id": 1731995257679,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "bin much ",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "image": "uploads\\016eeb9a2be171b34ffb974f1c0faf77",
+    "feedback": []
+  },
+  {
+    "id": 1731996018860,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "bin not good",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "email": "aginatijsspda@gmail.com",
+    "image": "6248d85f7653359080ff762ff5893fc8",
+    "feedback": []
+  },
+  {
+    "id": 1731998235521,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "email": "aginatijsspda@gmail.com",
+    "image": "4ce0891c34b3267ec513221b4e05e06e",
+    "feedback": []
+  },
+  {
+    "id": 1732010328405,
+    "name": "Sharath",
+    "address": "Mechal",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 9.785327,
+    "longitude": 76.7992938,
+    "image": "33eea5aebd653aec06e64f8528839e87",
+    "feedback": []
+  },
+  {
+    "id": 1732010589839,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "image": "df08a07776d6242e6959c51d2f23c731",
+    "feedback": []
+  },
+  {
+    "id": 1732010851963,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "image": "339cd8ed7805a7252d223e69e889a1a6",
+    "feedback": []
+  },
+  {
+    "id": 1732012073538,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "image": "339b873ea226522037e56e30cb41d804",
+    "feedback": []
+  },
+  {
+    "id": 1732109322901,
+    "name": "Sharath",
+    "address": "Shanthi Nagar, Ramanthapur",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 17.3915862,
+    "longitude": 78.5429973,
+    "image": "2a2328120e6f34a86c11eff026d441d1",
+    "feedback": []
+  },
+  {
+    "id": 1732109337006,
+    "name": "Aginati Sharath Kumar",
+    "address": "45",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 36.6976433,
+    "longitude": 126.5713294,
+    "image": null,
+    "feedback": []
+  },
+  {
+    "id": 1732118422722,
+    "name": "Aginati Sharath Kumar",
+    "address": "45",
+    "description": "4234545",
+    "progress": "In Progress",
+    "latitude": 36.6976433,
+    "longitude": 126.5713294,
+    "image": "037c127a48494192e9a1613fb38feb56",
+    "feedback": []
+  }
+]
